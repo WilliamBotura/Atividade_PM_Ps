@@ -122,3 +122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1795266d5a57a148a46caf49de0f7d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Target: {fileID: 0}
+  TargetTag: Inimigos
+  velMovimento: 3
+  lookAt: 0
